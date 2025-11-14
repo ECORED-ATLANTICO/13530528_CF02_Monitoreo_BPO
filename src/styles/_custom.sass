@@ -30,7 +30,7 @@ figcaption
   font-weight: normal
 
 .banner-principal__row .banner-principal__img
-  width: 500px !important
+  width: 600px !important
   @media screen and (max-width: $bp-max-xl)
     width: 400px !important
 
@@ -43,3 +43,49 @@ figcaption
     background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
   @media screen and (max-width: $bp-max-sm)
     background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
+
+//////////Background_Color///////////
+.bg-color
+  &-1
+    background-color: #E8F6F1 !important
+  &-2
+    background-color: #FFE69B
+  &-3
+    background-color: #D5D1E2
+  &-white
+    background-color: white !important
+    border: 1px solid $lightest-gray
+  &-secundario
+    background-color: $color-secundario !important
+  &-sintesis
+    background-color: #F6F6F6
+
+///////Full Width Background///////////////////
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+.bg-full-width-2
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+
+///////////////fondos/////////////////
+.bg-fondo
+  //&-1
+    background-image: url("../assets/bg/bg1.png") !important
+    background-position: top
+  &-2
+    // background-image: url("../assets/bg/bg2.png") !important
+    background-position: bottom
+  //&-slider
+    background-image: url("../assets/bg/bg-slider.png") !important
+    background-position: bottom

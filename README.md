@@ -1,8 +1,8 @@
-# **NOMBRE DEL COMPONENTE FORMATIVO**
+# **CF02 13530528 Monitoreo del desempeño de servicios BPO**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)
+[https://ecored-atlantico.github.io/13530528_CF02_Monitoreo_BPO/](https://ecored-atlantico.github.io/13530528_CF02_Monitoreo_BPO/)
 
 #
 

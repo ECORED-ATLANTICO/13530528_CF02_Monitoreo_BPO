@@ -1,19 +1,20 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Incidencias en la operación.',
+    Description:
+      'Este componente formativo aborda fundamentos teóricos y prácticos de la detección y análisis de incidencias en la operación de servicios BPO. Explora métricas, tendencias, procedimientos de evaluación y principios de calidad aplicados al monitoreo del desempeño. Permite al aprendiz identificar desviaciones, aplicar acciones de mejora y fortalecer la cultura de calidad organizacional.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      },
-    ],
+    //imagenesDecorativasBanner: [
+    //{
+    //clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+    //imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+    //},
+    //{
+    //clases: ['banner-principal-decorativo-2'],
+    //imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+    //},
+    //],
   },
   menuPrincipal: {
     menu: [
