@@ -47,11 +47,23 @@ figcaption
 //////////Background_Color///////////
 .bg-color
   &-1
-    background-color: #E8F6F1 !important
+    background-color: #E9F0FE !important
   &-2
-    background-color: #FFE69B
+    background-color: #E9CCFE !important
   &-3
-    background-color: #D5D1E2
+    background: linear-gradient(0deg,rgba(255, 255, 255, 1) 0%, rgba(248, 219, 253, 1) 20%, rgba(248, 219, 253, 1) 80%, rgba(255, 255, 255, 1) 100%)
+  &-4
+    background-color: #D3E0FD
+  &-5
+    background-color: #F4E6FE !important
+  &-6
+    background-color: #DEE9F0 !important
+  &-7
+    background-color: #F1F6F9
+  &-8
+    background: linear-gradient(0deg,rgba(255, 255, 255, 1) 0%, rgba(233, 240, 254, 1) 20%, rgba(233, 240, 254, 1) 80%, rgba(255, 255, 255, 1) 100%)
+  &-9
+    background-color: #F8DBFD
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -89,3 +101,101 @@ figcaption
   //&-slider
     background-image: url("../assets/bg/bg-slider.png") !important
     background-position: bottom
+
+/////////IMG_100%_CAJON_MEDIO/////////
+.pst
+  position: relative
+  z-index: 2
+.banner-text
+  background-color: #F1F6F9
+  border-radius: 10px
+  padding: 20px 30px
+  margin-top: -60px
+  @media screen and (max-width: $bp-max-sm)
+    margin-top: -10px
+  
+.bloque-texto-g.color-secundario
+  background-color: #DEE9F0
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: #E9CCFE
+      h4
+        color: $color-sistema-texto
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #9000F9
+    text-align: center
+    h4
+      color: white
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+/////////////ACORDION/////////////
+.acordion__accion__btn--a
+  background-color: #9000F9 !important
+  color: white
+.acordion__activo
+  background-color: #F1F6F9 !important
+.acordion_titulo
+  color: #fff !important
+.acordion__titulo 
+  h3
+    color: $color-sistema-texto  !important
+.acordion__activo
+  .acordion__titulo 
+    h3
+      color: $color-sistema-texto !important
+    
+/////////CUSTOM TABS-B///////////////
+.tabs-b__content-item, .tabs-b__tab.tabs-b__tab--active
+  background-color: #F1F6F9
+.tabs-b__tab
+  background-color: #D1DFE1
+
+//////////////CUSTOM TABS-A/////////////
+.tabs-a.color-acento-botones .tabs-a__tab__selected 
+  background-color: #A82250
+  color: #fff
+.tabs-a__tab
+  background-color: #F4E6FE
+.tarjeta.color-acento-botones--borde
+  background-color: #F1F6F9
+  border: solid 4px #F1F6F9
+
+////////////AJUSTE TAMAÑO CONTERNEDOR IZQUIERO TABS-A//////////
+.tabs-a
+  @media (min-width: 1200px) 
+    .row
+      .col-xl-3 
+        flex: 0 0 auto
+        width: 38%
+      .col-xl-9
+        flex: 0 0 auto
+        width: 62%
+  @media (min-width: 992px) 
+    .row
+      .col-lg-4 
+        flex: 0 0 auto
+        width: 45%
+      .col-lg-8 
+        flex: 0 0 auto
+        width: 55%
+
+.tabs-a.color-primario .tabs-a__tab__selected
+  color: white !important
