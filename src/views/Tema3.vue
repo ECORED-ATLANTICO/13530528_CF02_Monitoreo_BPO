@@ -35,7 +35,7 @@
           .col-lg-auto.order-2
             img(src="@/assets/curso/tema3/3.svg", style="max-width: 190px").mx-auto
           .col-lg.order-1.mb-3.mb-lg-0
-            p.mb-0 Por su parte, el Lean service busca eliminar desperdicios y maximizar el valor entregado al cliente. De acuerdo con Womack & Jones (2003), los desperdicios pueden manifestarse en tiempos muertos, duplicación de tareas o falta de coordinación entre áreas. En una operación de back office, aplicar Lean permitió reducir en un 25 % el tiempo de validación documental al eliminar pasos innecesarios y automatizar tareas repetitivas.
+            p.mb-0 Por su parte, el Lean service busca eliminar desperdicios y maximizar el valor entregado al cliente. De acuerdo con Womack & Jones (2003), los desperdicios pueden manifestarse en tiempos muertos, duplicación de tareas o falta de coordinación entre áreas. En una operación de <em>back office</em>, aplicar Lean permitió reducir en un 25 % el tiempo de validación documental al eliminar pasos innecesarios y automatizar tareas repetitivas.
             p.mb-0 Ambos enfoques comparten la premisa de que la calidad se construye con método, disciplina y compromiso. La mejora continua, en consecuencia, se consolida como una práctica estratégica que convierte cada desafío operativo en una oportunidad de progreso.
 
     .bg-full-width.bg-color-8
@@ -44,7 +44,7 @@
           .col-lg-10
             .titulo-sexto.color-acento-contenido
               h5 Tabla 1.
-              span Comparación entre PDCA y <em>Lean service</em>
+              span Comparación entre PDCA y Lean service
             
             .tabla-a.color-primario.mb-5 
               table
@@ -85,7 +85,7 @@
         figure
           img(src="@/assets/curso/tema3/5.png", data-aos="zoom-in")
       .col-lg-10.order-lg-1
-        p(data-aos="fade-left") ITIL (Information Technology Infrastructure Library) se enfoca en la gestión de servicios de TI. En operaciones BPO con soporte técnico, ITIL permite estructurar procesos como gestión de incidentes, cambios, niveles de servicio y resolución de problemas. Según Axelos (2021), aplicar ITIL mejora la alineación entre tecnología y negocio, reduce tiempos de respuesta y fortalece la experiencia del usuario.
+        p(data-aos="fade-left") ITIL (<em>Information Technology Infrastructure Library</em>) se enfoca en la gestión de servicios de TI. En operaciones BPO con soporte técnico, ITIL permite estructurar procesos como gestión de incidentes, cambios, niveles de servicio y resolución de problemas. Según Axelos (2021), aplicar ITIL mejora la alineación entre tecnología y negocio, reduce tiempos de respuesta y fortalece la experiencia del usuario.
         p Ambas normas permiten profesionalizar la operación, garantizar cumplimiento y generar confianza en clientes y aliados.
 
     .bg-full-width.bg-color-8
@@ -153,16 +153,12 @@
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.color-acento-botones--borde.p-4(titulo="Capacitación  continua")
-            h4 Capacitación  continua
             p Implementar talleres sobre empatía, escucha activa y resolución de conflictos. Esto fortalece la relación con el cliente y mejora indicadores como el CSAT (satisfacción) y el FCR (resolución en primer contacto).
           .tarjeta.color-acento-botones--borde.p-4(titulo="Protocolos flexibles")
-            h4 Protocolos flexibles
             p Ajustar los procedimientos según el contexto del cliente y las condiciones del servicio. Esto reduce escalamientos y mejora la percepción de atención personalizada.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Reconocimiento por calidad")
-            h4 Reconocimiento por calidad
             p Premiar interacciones sobresalientes por su trato humano o eficacia, más allá del volumen de llamadas. Esto incrementa la motivación del personal y eleva el desempeño global.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Escucha interna")
-            h4 Escucha interna
             p Recoger la voz de los agentes mediante encuestas o grupos focales para identificar oportunidades de mejora. Esto permite decisiones más acertadas y procesos operativos más eficientes.
       
 </template>

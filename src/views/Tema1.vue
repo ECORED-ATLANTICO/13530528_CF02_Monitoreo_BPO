@@ -44,7 +44,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/5.png')})`}"
       )(data-aos="zoom-in")
       .bloque-texto-g__texto.p-4
-        p.mb-0 El análisis de tendencias requiere herramientas como dashboards operativos, reportes históricos, mapas de calor y sistemas de monitoreo en tiempo real, estas herramientas permiten visualizar el comportamiento del servicio y tomar decisiones basadas en evidencia. Por ejemplo, un aumento en el volumen de llamadas durante una campaña comercial puede generar mayor tiempo promedio de atención y un incremento en la tasa de errores por rotación de personal. Este tipo de análisis facilita la comprensión de cómo los factores operativos y externos influyen en el desempeño del servicio, promoviendo acciones preventivas y correctivas que fortalezcan la eficiencia y la calidad en los entornos BPO.
+        p.mb-0 El análisis de tendencias requiere herramientas como <em>dashboards</em> operativos, reportes históricos, mapas de calor y sistemas de monitoreo en tiempo real, estas herramientas permiten visualizar el comportamiento del servicio y tomar decisiones basadas en evidencia. Por ejemplo, un aumento en el volumen de llamadas durante una campaña comercial puede generar mayor tiempo promedio de atención y un incremento en la tasa de errores por rotación de personal. Este tipo de análisis facilita la comprensión de cómo los factores operativos y externos influyen en el desempeño del servicio, promoviendo acciones preventivas y correctivas que fortalezcan la eficiencia y la calidad en los entornos BPO.
     
     separador
     

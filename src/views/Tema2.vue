@@ -79,7 +79,7 @@
                 .col-lg-auto.mb-3.mb-lg-0.order-2
                   img(src="@/assets/curso/tema2/8.svg", style="max-width: 166px").mx-auto
                 .col-lg.order-1
-                  p.mb-0 De acuerdo con Zendesk (2022), el uso de herramientas estandarizadas no solo incrementa la precisión de los resultados, sino que también favorece la comparación entre campañas, agentes o periodos operativos, fortaleciendo la gestión de desempeño y la cultura de calidad organizacional. A continuación se presentan las principales herramientas empleadas para evaluar el desempeño en los servicios BPO, describiendo sus características, propósitos y aplicaciones prácticas dentro de los procesos de monitoreo y control de calidad:
+                  p.mb-0 De acuerdo con Zendesk (2022), el uso de herramientas estandarizadas no solo incrementa la precisión de los resultados, sino que también favorece la comparación entre campañas, agentes o periodos operativos, fortaleciendo la gestión de desempeño y la cultura de calidad organizacional. A continuación, se presentan las principales herramientas empleadas para evaluar el desempeño en los servicios BPO, describiendo sus características, propósitos y aplicaciones prácticas dentro de los procesos de monitoreo y control de calidad:
 
         TabsB.color-acento-contenido.mb-5
           .p-4(titulo="<em>Checklist</em>" :icono="require('@/assets/componentes/1.svg')")

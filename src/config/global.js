@@ -245,7 +245,7 @@ export default {
     },
     {
       referencia:
-        'da Silva, D. (s. f.). <em>6 métodos simples para la evaluación del servicio al cliente</em>. Zendesk.',
+        'Da Silva, D. (s. f.). <em>6 métodos simples para la evaluación del servicio al cliente</em>. Zendesk.',
       link: 'https://www.zendesk.com.mx/blog/evaluacion-servicio-al-cliente/',
     },
     {

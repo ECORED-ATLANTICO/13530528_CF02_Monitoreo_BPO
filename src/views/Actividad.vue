@@ -133,7 +133,7 @@ export default {
         {
           id: 8,
           texto:
-            'Lean Service busca aumentar la complejidad de los procesos para mejorar la calidad.',
+            'Lean service busca aumentar la complejidad de los procesos para mejorar la calidad.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -298,7 +298,7 @@ export default {
         {
           id: 19,
           texto:
-            'Una checklist permite verificar el cumplimiento de pasos en una interacción.',
+            'Una <em>checklist</em> permite verificar el cumplimiento de pasos en una interacción.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
