@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Tema 4
+      h1 Acciones de mejora
     
     img(data-aos="fade-down")(src="@/assets/curso/tema4/1.png", alt="Imagen decorativa")
 
@@ -119,7 +119,7 @@
         
         .tabla-a.color-primario.mb-5 
           table
-            caption SENA, 2025 con base en ESIC, 2021.
+            caption Fuente: SENA, 2025 con base en ESIC, 2021.
             thead
               tr
                 th.bg-color-9 Mejora propuesta
@@ -165,7 +165,7 @@
             figure.mb-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/13.svg", data-aos="zoom-in", alt="La figura presenta los componentes esenciales para comunicar una propuesta de mejora de manera efectiva. Inicia con la identificación del problema, seguida de la acción sugerida y la definición de los responsables. Además, incluye el indicador de éxito, que permite medir la efectividad de la mejora, y el plazo de implementación, que determina cuándo debe ejecutarse y revisarse la acción.")
               img.d-flex.d-lg-none(src="@/assets/curso/tema4/13-1.svg", data-aos="zoom-in", alt="La figura presenta los componentes esenciales para comunicar una propuesta de mejora de manera efectiva. Inicia con la identificación del problema, seguida de la acción sugerida y la definición de los responsables. Además, incluye el indicador de éxito, que permite medir la efectividad de la mejora, y el plazo de implementación, que determina cuándo debe ejecutarse y revisarse la acción.")
-            figcaption SENA, 2025.
+            figcaption <b>Fuente:</b> SENA, 2025.
     
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0

@@ -98,7 +98,7 @@
             
             .tabla-a.color-primario.mb-5 
               table
-                caption SENA, 2025 con base en Axelos, 2021.
+                caption Fuente: SENA, 2025 con base en Axelos, 2021.
                 thead
                   tr
                     th.bg-color-9 Norma
@@ -136,10 +136,10 @@
           .col-lg-6
             .titulo-sexto.color-acento-contenido
               h5 Figura 2.
-              span Acciones de una cultura organizacional orientada al cliente.
+              span Acciones de una cultura organizacional orientada al cliente
             figure.mb-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema3/7.svg", data-aos="zoom-in", alt="La figura muestra tres acciones que fortalecen la cultura de calidad en los servicios BPO: capacitación continua en experiencia del cliente, reconocimiento a los agentes por su desempeño en calidad, además de espacios y protocolos que promueven la empatía y la mejora interna.")
-            figcaption SENA, 2025.
+            figcaption <b>Fuente:</b> SENA, 2025.
     
     p.mb-5 Una cultura orientada al cliente se cultiva con coherencia y compromiso. No surge de políticas aisladas, sino de la integración entre la formación del talento humano, la flexibilidad operativa, el reconocimiento del esfuerzo y la escucha activa. Cada acción refuerza la confianza, impulsa la mejora continua y convierte la atención en una experiencia significativa.
 

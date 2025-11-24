@@ -33,11 +33,11 @@
           .col-lg-10
             .titulo-sexto.color-acento-contenido
               h5 Figura 1.
-              span Tendencias principales.
+              span Tendencias principales
             figure.mb-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/3.svg", data-aos="zoom-in", alt="La figura muestra los tres tipos principales de tendencias en el comportamiento del servicio: lineales, que reflejan un crecimiento o disminución constante en el tiempo; estacionales, que se repiten en periodos específicos como campañas navideñas; e irregulares, que no siguen un patrón definido y suelen relacionarse con eventos puntuales.")
               img.d-flex.d-lg-none(src="@/assets/curso/tema1/4.svg", data-aos="zoom-in", alt="La figura muestra los tres tipos principales de tendencias en el comportamiento del servicio: lineales, que reflejan un crecimiento o disminución constante en el tiempo; estacionales, que se repiten en periodos específicos como campañas navideñas; e irregulares, que no siguen un patrón definido y suelen relacionarse con eventos puntuales.")
-            figcaption SENA, 2025.
+            figcaption <b>Fuente</b>: SENA, 2025.
     
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(

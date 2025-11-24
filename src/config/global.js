@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Incidencias en la operación.',
+    Name: 'Incidencias en la operación',
     Description:
       'Este componente formativo aborda fundamentos teóricos y prácticos de la detección y análisis de incidencias en la operación de servicios BPO. Explora métricas, tendencias, procedimientos de evaluación y principios de calidad aplicados al monitoreo del desempeño. Permite al aprendiz identificar desviaciones, aplicar acciones de mejora y fortalecer la cultura de calidad organizacional.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),

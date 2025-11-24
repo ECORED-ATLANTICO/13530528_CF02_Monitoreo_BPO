@@ -94,7 +94,7 @@
             .row.align-items-center.p-4
               .col-lg-7.mb-4.mb-lg-0.order-2
                 h4 Matriz de calidad
-                p.mb-0 Herramienta estructurada que pondera distintos criterios de desempeño, como cortesía, solución efectiva, manejo del cliente o uso adecuado de scripts. Su aplicación permite asignar puntajes objetivos y realizar retroalimentaciones basadas en evidencia, fortaleciendo la mejora técnica de los agentes.
+                p.mb-0 Herramienta estructurada que pondera distintos criterios de desempeño, como cortesía, solución efectiva, manejo del cliente o uso adecuado de <em>scripts</em>. Su aplicación permite asignar puntajes objetivos y realizar retroalimentaciones basadas en evidencia, fortaleciendo la mejora técnica de los agentes.
               .col-lg-5.mb-4.mb-lg-0.order-1
                 figure
                   img(src='@/assets/curso/tema2/10.png', alt='Texto que describa la imagen')
