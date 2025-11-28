@@ -66,7 +66,7 @@
             .row.align-items-center.p-4
               .col-lg-7.mb-4.mb-lg-0
                 h4 Impacto  en el cliente
-                p.mb-0 Evalúa cuánto mejora la experiencia del usuario final. Las acciones con alto impacto suelen priorizarse porque fortalecen la satisfacción, la fidelización y la reputación del slgvicio.
+                p.mb-0 Evalúa cuánto mejora la experiencia del usuario final. Las acciones con alto impacto suelen priorizarse porque fortalecen la satisfacción, la fidelización y la reputación del servicio.
               .col-lg-5.mb-4.mb-md-0
                 figure
                   img(src='@/assets/curso/tema4/6.png', alt='Texto que describa la imagen')

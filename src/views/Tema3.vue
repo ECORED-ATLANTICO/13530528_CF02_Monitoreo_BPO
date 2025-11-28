@@ -44,7 +44,7 @@
           .col-lg-10
             .titulo-sexto.color-acento-contenido
               h5 Tabla 1.
-              span Comparación entre PDCA y Lean service
+              span Comparación entre PDCA y <em>Lean service</em>
             
             .tabla-a.color-primario.mb-5 
               table
