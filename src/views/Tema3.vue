@@ -26,7 +26,7 @@
           img(src="@/assets/curso/tema3/2.png", data-aos="zoom-in")
       .col-lg-8
         p(data-aos="fade-left") La mejora continua constituye el eje que impulsa la evolución y sostenibilidad de los servicios BPO. Más que corregir fallas puntuales, implica un proceso constante de análisis, optimización y aprendizaje organizacional. Su propósito es generar valor mediante la revisión sistemática de los procesos, la identificación de oportunidades y la implementación de acciones que eleven la eficiencia, la calidad y la satisfacción del cliente.
-        p Entre los enfoques más aplicados en el sector destacan el ciclo PDCA (<em>Plan-Do-Check-Act</em>) y el Lean service, ambos orientados a fortalecer la excelencia operativa y promover la innovación desde la práctica.
+        p Entre los enfoques más aplicados en el sector destacan el ciclo PDCA (<em>Plan-Do-Check-Act</em>) y el <em>Lean service</em>, ambos orientados a fortalecer la excelencia operativa y promover la innovación desde la práctica.
         p El ciclo PDCA estructura la mejora como un proceso iterativo y controlado. Por ejemplo, un BPO del sector financiero que detecta demoras en la resolución de casos puede planificar ajustes al protocolo, implementarlos, verificar los resultados y estandarizar los cambios exitosos. Este método garantiza trazabilidad, control y aprendizaje continuo.
     
     .bg-color-7.tarjeta.mb-5
@@ -35,7 +35,7 @@
           .col-lg-auto.order-2
             img(src="@/assets/curso/tema3/3.svg", style="max-width: 190px").mx-auto
           .col-lg.order-1.mb-3.mb-lg-0
-            p.mb-0 Por su parte, el Lean service busca eliminar desperdicios y maximizar el valor entregado al cliente. De acuerdo con Womack & Jones (2003), los desperdicios pueden manifestarse en tiempos muertos, duplicación de tareas o falta de coordinación entre áreas. En una operación de <em>back office</em>, aplicar Lean permitió reducir en un 25 % el tiempo de validación documental al eliminar pasos innecesarios y automatizar tareas repetitivas.
+            p.mb-0 Por su parte, el <em>Lean service</em> busca eliminar desperdicios y maximizar el valor entregado al cliente. De acuerdo con Womack & Jones (2003), los desperdicios pueden manifestarse en tiempos muertos, duplicación de tareas o falta de coordinación entre áreas. En una operación de <em>back office</em>, aplicar Lean permitió reducir en un 25 % el tiempo de validación documental al eliminar pasos innecesarios y automatizar tareas repetitivas.
             p.mb-0 Ambos enfoques comparten la premisa de que la calidad se construye con método, disciplina y compromiso. La mejora continua, en consecuencia, se consolida como una práctica estratégica que convierte cada desafío operativo en una oportunidad de progreso.
 
     .bg-full-width.bg-color-8
@@ -62,7 +62,7 @@
                     td Revisión y ajuste de protocolos operativos, seguimiento de indicadores y estandarización de procesos.
                     td Asegura control, trazabilidad y aprendizaje organizacional.
                   tr
-                    td Lean service.
+                    td <em>Lean service</em>.
                     td Filosofía orientada a eliminar desperdicios y optimizar los flujos de trabajo.
                     td Rediseño de tareas repetitivas y automatización de procesos administrativos o de soporte.
                     td Incrementa la agilidad, eficiencia y valor percibido por el cliente.

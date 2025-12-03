@@ -241,7 +241,8 @@ export default {
     {
       referencia:
         'Castellaños, P., & Farias, P. (2011). <em>Estructuración de un modelo de servicio para el sector de Servicios tercerizados a distancia BPO&O</em>. Universidad EAN.',
-      link: '',
+      link:
+        'https://repository.universidadean.edu.co/server/api/core/bitstreams/61096c97-ac1b-426a-952e-37306635cf4d/content',
     },
     {
       referencia:
@@ -262,7 +263,8 @@ export default {
     {
       referencia:
         'Sánchez Torres, W. C., Delgado Vélez, L. D., Gaviria Martínez, L. F., Montoya Ríos, F. J., & Ángel Rodrigo, V. B. (2014). <em>Una mirada analítica al sector de BPO en Colombia y Antioquia</em>. Institución Universitaria Esumer.',
-      link: '',
+      link:
+        'https://www.researchgate.net/publication/301233320_Una_mirada_analitica_al_sector_de_BPO_en_Colombia_y_Antioquia',
     },
   ],
   creditos: [

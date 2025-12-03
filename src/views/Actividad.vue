@@ -133,7 +133,7 @@ export default {
         {
           id: 8,
           texto:
-            'Lean service busca aumentar la complejidad de los procesos para mejorar la calidad.',
+            '<em>Lean service</em> busca aumentar la complejidad de los procesos para mejorar la calidad.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

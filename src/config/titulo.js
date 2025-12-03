@@ -1,1 +1,1 @@
-module.exports = 'Incidencias en la operación.'
+module.exports = 'Incidencias en la operación'
