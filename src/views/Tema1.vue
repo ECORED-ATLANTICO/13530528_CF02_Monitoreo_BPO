@@ -49,7 +49,7 @@
     separador
     
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.2 Métricas
+      h2  Métricas
     
     .row.mb-5
       .col-lg-2.order-lg-2.mb-3.mb-lg-0
@@ -70,7 +70,7 @@
           img(src="@/assets/curso/tema1/8.png", data-aos="fade-up")
         .bg-color-2.p-5
           h5 Cualitativas
-          p.mb-0.mb-lg-4 Basadas en percepciones o auditorías, como comentarios en encuestas, análisis de tono o adherencia al protocolo.
+          p.mb-0.mb-lg-4.mb-xl-0 Basadas en percepciones o auditorías, como comentarios en encuestas, análisis de tono o adherencia al protocolo.
     
     .row.mb-5
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
